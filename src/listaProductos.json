@@ -1,0 +1,32 @@
+{
+    "listaProductos":[
+        {
+            "titulo":"Skullcandy audifonos",
+            "imagen":"https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000190908_sd.jpg",
+            "descripcion":"Los audífonos de la marca SkullCandy cuenta con conexión inalámbrica.",
+            "precio":"2379.00",
+            "stock":"4"
+        },
+        {
+            "titulo":"Smartwatch U8",
+            "imagen":"https://www.sure.com.bo/wp-content/uploads/2018/10/SMARTWATCH-2.jpg",
+            "descripcion":"Smartwtach en color blanco compatible con iOS/Android",
+            "precio":"319.00",
+            "stock":"5"
+        },
+        {
+            "titulo":"Manos Libres",
+            "imagen":"https://cdnx.jumpseller.com/urbenmood/image/6175242/resize/635/635?1580782900",
+            "descripcion":"Audifonos LANGSDOM BL6 Bluetooth Inalambricos Manos Libres.",
+            "precio":"108.50",
+            "stock":"2"
+        },
+        {
+            "titulo":"Monitor de 20 pulgadas",
+            "imagen":"https://sc02.alicdn.com/kf/HTB11P2bOVXXXXcdXVXXq6xXFXXXd.jpg_350x350.jpg",
+            "descripcion":"Monitor led de 20 pulgadas.",
+            "precio":"1513.12",
+            "stock":"7"
+        }
+    ]
+}
